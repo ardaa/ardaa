@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **embedded audio software**
 
-- 💬 Ask me about **STM32**, **Digital Signal Processing**, **Codecs**, embedded AI, cool synths, guitar pedals, web design.
+- 💬 Ask me about **STM32**, **Digital Signal Processing**, **Codecs**, **embedded AI**, web design, network stacks, AWS, cool synths, guitar pedals.
 
 - 📫 How to reach me **ardabulut01 [at] gmail.com**
 
