@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arda Bulut</h1>
-<h3 align="center">A passionate embedded software developer at KAREL</h3>
+<h3 align="center">A passionate embedded software developer at TUBITAK BILGEM</h3>
 
 - 🔭 I’m currently working on **embedded AI and audio software**
 
-- 💬 Ask me about **STM32**, **Digital Signal Processing**, **Active Noise Cancellation**, **Codecs**, **embedded AI**, web design, network stacks, AWS, cool synths, guitar pedals.
+- 💬 Ask me about **STM32**, **Embedded Linux**, **Digital Signal Processing**, **Active Noise Cancellation**, **Codecs**, **embedded AI**, web design, network stacks, AWS, cool synths, guitar pedals.
 
 - 📫 How to reach me **ardabulut01 [at] gmail.com**
 
